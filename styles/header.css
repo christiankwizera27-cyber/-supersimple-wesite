@@ -201,4 +201,5 @@
 .youtube-apps-icon-container:hover .tooltip,
 .notifications-icon-container:hover .tooltip {
   opacity: 1;
+  color: white;
 }
